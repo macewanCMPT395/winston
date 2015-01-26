@@ -1,0 +1,10 @@
+% 1, Calgary
+1, Winston Kouch, 9
+2, Monster Monster, 11
+3, Kitty Cat, 40
+% 1234, Calgary
+5678, Joe Smith, 60
+5679, Jane Doe, 110
+% 2244, Edmonton
+3448, Joey, 8
+6629, Jess, 12
