@@ -1,7 +1,5 @@
 # winston
 
-Contains 2 old code samples
+This is a basic web application using PHP and the Laravel framework.
 
-CMPT 200 - Shipyard Queue Management System (Python)
-
-CMPT 103 - War Card Game (Python)
+In this web application, I use SQLite for the database and allow users to sign-in, get authenticated, edit the user's own details and post on a forum.
