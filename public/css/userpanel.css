@@ -1,0 +1,27 @@
+/* Configured boxes for user-centered objects and put a body-background color */
+
+#items {
+	width: 400px; 
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	background: #7575A3;
+	border: 5px solid #FF9900;
+	text-align:left; 
+	voice-family:inherit;
+	font: 24px Garamond, serif;
+}
+
+h1 {
+   font-weight:bolder
+   font-family:arial, helvetica
+}
+   
+a:hover {
+   color: #CCFF66;
+   background-color: #009933;  
+}
+
+body {
+   background: #9494B8;
+}

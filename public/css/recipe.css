@@ -1,0 +1,83 @@
+/* Horizontal Tabs */
+
+body
+{
+    background: #6699FF;
+}
+
+h1 {
+    font: 64px Helvetica, serif;
+}
+
+#tabitem ul
+{
+    display: inline;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+#tabitem ul li {
+    padding: 2px 10px 5px;
+    border: 2px solid #000000;
+    display: inline;
+}
+
+a:hover {
+    color: #FF3300;
+}
+
+html, body {
+height: 100%;
+}
+
+.footer {
+height: 4em;
+background: #6699FF;
+border: 5px solid #00FFFF;
+font: 24px Helvetica, serif;
+}
+
+#links ul li {
+    list-style:none;
+    float: right;
+    padding: 0 15px;
+    margin: 8px 0;
+    border-left: 1px solid #ffffff;
+    color: #781d2e;
+}
+
+#nav {
+    width: 620px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid #666;
+    border-radius: 8px;
+    background: #9DB5FF;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 10px 10px 5px;
+}
+
+#nav li {
+    display: inline;
+    padding: 5px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #00000F;
+    padding: 8px 8px 8px 8px;
+}
+
+#nav a:hover {
+    color: #FFCC00;
+    background-color: #9DB5FF;
+}

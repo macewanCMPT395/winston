@@ -1,0 +1,98 @@
+/* CSS Styling for the Main Page */
+
+/* NAV bar configuration */
+#nav {
+    width: 620px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid #666;
+    border-radius: 8px;
+    background: #9DB5FF;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 10px 10px 5px;
+}
+
+#nav li {
+    display: inline;
+    padding: 5px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #00000F;
+    padding: 8px 8px 8px 8px;
+}
+
+#nav a:hover {
+    color: #FFCC00;
+    background-color: #9DB5FF;
+}
+
+body {
+    background-image: url('/bg/bluebg.png');
+    background-attachment: fixed;
+}
+
+h1 {
+    font: 64px Georgia, serif;
+}
+
+/* used mainly for sectioned posts ie. blog-like */
+#items {
+	width: 450px; 
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto; 
+	background: #FFFF99;
+	border: 5px solid #FF9900;
+	text-align:left; 
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 370px;
+	font: 24px Garamond, serif;
+}
+
+h2 {
+    font: 28px Garamond, serif;
+}
+
+/* Footer Styling and Bottom Link configuration */
+
+html, body {
+height: 100%;
+}
+
+.footer {
+height: 4em;
+background: #6699FF;
+border: 5px solid #00FFFF;
+font: 24px Helvetica, serif;
+}
+
+#links ul li {
+    list-style:none;
+    float: right;
+    padding: 0 15px;
+    margin: 8px 0;
+    border-left: 1px solid #ffffff;
+    color: #781d2e;
+}
+
+/* FAQS qa */
+
+#qa {
+    font: 18px Arial, serif;
+    border: 4px solid #FF3300;
+    background: #FF6666;
+}

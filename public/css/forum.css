@@ -1,0 +1,62 @@
+/* Used in create new account screen */
+
+#nav {
+    width: 620px;
+    height: 100px;
+    font-size: 24px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid #666;
+    border-radius: 8px;
+    background: #9DB5FF;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 10px 10px 5px;
+}
+
+#nav li {
+    display: inline;
+    padding: 5px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #00000F;
+    padding: 8px 8px 8px 8px;
+}
+
+#nav a:hover {
+    color: #FFCC00;
+    background-color: #9DB5FF;
+}
+
+body {
+    background-image: url('/bg/bluebg.png');
+    background-attachment: fixed;
+}
+
+
+.main {
+    width: 600px;
+    height: 450px;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #666;
+    border-radius: 8px;
+    background: #993D3D;
+}
+
+
+h1 {
+    font: 48px Georgia, serif;
+}
+
+.box {
+    padding: 5px;
+    text-align: left;
+}
