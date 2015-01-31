@@ -16,7 +16,7 @@ Upon completion of this project I had some issues working with the Laravel frame
 
 Things that work pretty well
 CSS Layouts
-The webpage, SQL connections / structure of tables, Views.
+The webpage, SQL connections / structure of tables, Views
 Authentication works okay.
 Creating new users is fine.
 UserController and SessionController most features are fine except the Form::Model ones.
